@@ -1,4 +1,4 @@
-# Design Patent Infringement Risk Assessment
+# Capstone with SUNTEK - Design Patent Infringement Risk Assessment
 
 **An LLM-powered system for evaluating potential design patent infringement risks through visual comparison.**
 
