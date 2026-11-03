@@ -8,7 +8,7 @@ This project was developed as part of the **2026 SUNTEK Capstone Project**.
 
 The system uses a multimodal Large Language Model (LLM) to compare product images with design patent images and assess potential infringement risks. It also provides a Streamlit-based user interface for running evaluations and visualizing results.
 
-## How It Works 123
+## How It Works
 
 The system follows four main steps:
 
